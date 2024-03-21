@@ -32,19 +32,6 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 
 7. **Data Management:** Attendance data is stored in a CSV file for real-time access or export.
 
-## APP GUI
-# User Interface
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/User%20Interface.png)
-# Face found
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Face%20found.png)
-# Attendance marked
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Attendance%20marked.png)
-# Trying to re-take the Attendance
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/recorded%20user.png)
-# Error
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Error.png)
-
-
 
 ## Benefits
 
@@ -67,7 +54,4 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 3. Configure the system settings and paths in the code to suit your specific environment.
 
 4. Run the project using `python GUI.py`.
-
-## Author
-- [Chandrababu Namani](https://github.com/Chandrababu-Namani)
 
